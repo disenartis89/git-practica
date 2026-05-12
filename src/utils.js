@@ -10,3 +10,6 @@ function restar(a, b) {
 }
 
 // TODO: En los ejercicios añadirás más funciones aquí
+function multiplicar(a, b) {
+  return a * b;
+}
