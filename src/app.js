@@ -10,6 +10,3 @@ function despedir(nombre) {
 }
 
 // TODO: Añade aquí tu propia función en los ejercicios
-function calcularEdad(anioNacimiento) {
-  return new Date().getFullYear() - anioNacimiento;
-}
