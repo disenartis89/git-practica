@@ -9,3 +9,5 @@ Este archivo es para practicar cambios en ramas y documentación.
 
 ## Notas del equipo
 <!-- Aquí irán las notas colaborativas en los ejercicios -->
+
+- [ ] Completada la tarea dividir
